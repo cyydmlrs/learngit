@@ -4,3 +4,4 @@ git is great.
 yes.
 no.
 Git has a mutable index aclled stage.
+Git tracks changes.
