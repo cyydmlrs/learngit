@@ -9,6 +9,7 @@ My stupid boss still prefer SVN.
 <<<<<<< HEAD
 creating a new branch is quick and simple.
 cyydmlrs520.
+hahaha.
 =======
 creating a new branch is quick and simple.
 cyy.
