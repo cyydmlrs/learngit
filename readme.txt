@@ -6,5 +6,10 @@ no.
 Git has a mutable index aclled stage.
 Git tracks changes.
 My stupid boss still prefer SVN.
-creating a new branch is quick & simple.
+<<<<<<< HEAD
+creating a new branch is quick and simple.
 cyydmlrs520.
+=======
+creating a new branch is quick and simple.
+cyy.
+>>>>>>> feature1
